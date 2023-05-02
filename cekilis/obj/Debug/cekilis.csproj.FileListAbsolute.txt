@@ -1,0 +1,11 @@
+C:\Users\zbtur\source\repos\cekilis\cekilis\bin\Debug\cekilis.exe.config
+C:\Users\zbtur\source\repos\cekilis\cekilis\bin\Debug\cekilis.exe
+C:\Users\zbtur\source\repos\cekilis\cekilis\bin\Debug\cekilis.pdb
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.csproj.AssemblyReference.cache
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.Form1.resources
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.Properties.Resources.resources
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.csproj.GenerateResource.cache
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.csproj.CoreCompileInputs.cache
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.exe
+C:\Users\zbtur\source\repos\cekilis\cekilis\obj\Debug\cekilis.pdb
